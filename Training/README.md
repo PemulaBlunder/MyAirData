@@ -1,5 +1,3 @@
-Kalau template ini dipakai untuk semua polutan (CO, PM2.5, PM10, O₃, SO₂, NO₂, dll.), README-nya lebih baik dibuat generik seperti berikut:
-
 # README - Training Model Time Series Menggunakan LSTM + Genetic Algorithm
 
 ## Deskripsi
